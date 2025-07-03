@@ -1,0 +1,23 @@
+body {
+    background: #222;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: sans-serif;
+    margin: 0;
+    min-height: 100vh;
+}
+h1 {
+    margin-top: 32px;
+    margin-bottom: 16px;
+    font-size: 2rem;
+    letter-spacing: 2px;
+}
+#pong {
+    background: #111;
+    border: 3px solid #fff;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 0 0 25px #111;
+}
